@@ -6,12 +6,12 @@ In this project i make a automatic dustbin which open itself when you near it an
 
 THE COMPONENTS:
 
-1.Ultrasonic sensor 
-2.Servo motor 
-3.Arduino Uno R3 
-4.breadboard 
-5.jumper wires 
-6.5v battery
+1. Ultrasonic sensor 
+2. Servo motor 
+3. Arduino Uno R3 
+4. breadboard 
+5. jumper wires 
+6. 5v battery
 
 WORKING
 
